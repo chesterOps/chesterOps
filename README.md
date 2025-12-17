@@ -1,6 +1,6 @@
 ## Hi there, I,m Chester Okwulehie 👋
 [![Portfolio](https://img.shields.io/badge/Portfolio-Chester-blue?style=for-the-badge&logo=globe)](https://chester.dev)
-[![Download Resume](https://img.shields.io/badge/resume-_Fullstack_developer-green?style=for-the-badge)](https://docs.google.com/document/d/19F_rEiRcUAaziiiqv57PitmrBGklSnQGiGZ92lI5dPk/edit?usp=sharing)
+[![Download Resume](https://img.shields.io/badge/resume-_Fullstack_developer-green?style=for-the-badge)](https://docs.google.com/document/d/1i4oT7F5CLGqlHDNCbQWctDG4-POOkrTx_OtNDj8InCA/edit?usp=sharing)
 
 ## I'm a Fullstack Developer
 -   🔰 Currently learning Laravel and php
